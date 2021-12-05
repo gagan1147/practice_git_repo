@@ -1,0 +1,15 @@
+{
+    "name": "joker/php-learn",
+    "autoload": {
+        "psr-4": {
+            "Joker\\PhpLearn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gagan1147",
+            "email": "gagangautam1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
